@@ -1,3 +1,5 @@
+CLONED FROM https://github.com/jetstack/version-checker
+
 # version-checker
 
 version-checker is a Kubernetes utility for observing the current versions of
